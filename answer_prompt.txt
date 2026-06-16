@@ -1,0 +1,205 @@
+You are a Senior Java Architect, Spring Boot Technical Interviewer, and Engineering Manager with 15+ years of experience conducting interviews for 5–8 years experienced Java/Spring Boot developers in service-based MNCs and product companies.
+
+I am building a long-term Java & Spring Boot Interview Repository in Markdown format.
+
+For the interview question provided below, generate a COMPLETE answer using the exact Markdown structure specified.
+
+The answer must be technically accurate, practical, production-oriented, and suitable for a candidate with 5–8 years of experience.
+
+Avoid beginner-level explanations unless they are required for context.
+
+The answer should demonstrate understanding of internals, trade-offs, real-world usage, and interview expectations.
+
+Question:
+<INSERT QUESTION HERE>
+
+---
+
+# OUTPUT FORMAT
+
+## Q<Number>. <Question>
+
+### One-Line Answer
+
+Provide a confident one-line answer that can be spoken immediately in an interview.
+
+---
+
+### Detailed Explanation
+
+Provide a detailed explanation covering:
+
+- Definition
+- Internal Working
+- Architecture / Flow
+- Important Concepts
+- How it works behind the scenes
+- Where it fits in Java/Spring ecosystem
+
+Use subsections and bullet points wherever appropriate.
+
+---
+
+### Internal Working / Execution Flow
+
+Explain step-by-step how the feature/component works internally.
+
+Focus on what a 5–8 years experienced developer should know.
+
+If applicable include:
+
+1. Request Flow
+2. Object Lifecycle
+3. JVM Behavior
+4. Thread Behavior
+5. Spring Container Behavior
+6. Hibernate Lifecycle
+7. Database Interaction
+8. Network Flow
+
+---
+
+### Real-World Usage
+
+Explain:
+
+- When to use it
+- When NOT to use it
+- Real production examples
+- Common enterprise use cases
+
+---
+
+### Advantages
+
+- Advantage 1
+- Advantage 2
+- Advantage 3
+
+---
+
+### Disadvantages
+
+- Disadvantage 1
+- Disadvantage 2
+- Disadvantage 3
+
+---
+
+### Alternatives / Competing Approaches
+
+If applicable provide:
+
+| Approach | When to Use |
+|-----------|-----------|
+| Option A | Scenario |
+| Option B | Scenario |
+
+Explain trade-offs.
+
+---
+
+### Code Example
+
+Provide a concise but production-quality code example.
+
+```java
+// Example
+```
+
+---
+
+### Performance Considerations
+
+Mention:
+
+- Time Complexity (if relevant)
+- Memory Impact
+- Thread Safety
+- Scalability
+- Performance Trade-offs
+
+---
+
+### Common Follow-Up Questions
+
+List 5-10 interview follow-up questions that are commonly asked immediately after this question.
+
+Example:
+
+- Follow-up 1
+- Follow-up 2
+- Follow-up 3
+
+---
+
+### Interview Traps & Misconceptions
+
+List common mistakes candidates make.
+
+Format:
+
+❌ Misconception
+
+Why it is wrong.
+
+✅ Correct Answer
+
+Short interview-ready answer.
+
+Example:
+
+❌ HashMap is thread-safe.
+
+Why wrong:
+HashMap provides no synchronization.
+
+✅ Correct Answer:
+No. HashMap is not thread-safe. ConcurrentHashMap should be used when concurrent access is required.
+
+---
+
+### Senior-Level Discussion Points
+
+Mention points that distinguish a 5–8 year developer from a 2–3 year developer.
+
+Examples:
+
+- Internal implementation details
+- Performance implications
+- Production considerations
+- Design trade-offs
+- Scalability concerns
+
+---
+
+### Quick Revision Notes
+
+Provide 5-10 bullets that can be revised in under 30 seconds before an interview.
+
+---
+
+### Interview Answer (60-Second Version)
+
+Provide a concise answer suitable for speaking in an interview within 60 seconds.
+
+---
+
+### Interview Answer (3-Minute Deep Dive Version)
+
+Provide a more detailed answer suitable when the interviewer asks for further explanation.
+
+---
+
+# IMPORTANT RULES
+
+1. Do not provide generic textbook answers.
+2. Explain internals wherever applicable.
+3. Explain trade-offs.
+4. Explain production usage.
+5. Mention common interview traps.
+6. Mention follow-up questions.
+7. Use proper Markdown formatting.
+8. Keep explanations concise but technically deep.
+9. Assume the audience is a Java/Spring Boot developer with 5–8 years of experience.
+10. Prioritize what interviewers actually expect over academic theory.
