@@ -223,3 +223,28 @@
 * **144.** Check if 2 strings are anagrams. [Answered]
 * **145.** Program to find duplicates in a string. [To be Answered]
 * **148.** Code to swap 2 variables without a 3rd variable. [To be Answered]
+
+8. Kafka & Messaging
+
+217. What is Apache Kafka? [P1]
+218. Topic vs Partition in Kafka. [P1]
+219. Producer vs Consumer in Kafka. [P1]
+220. What is a Consumer Group? [P1]
+221. What is Offset in Kafka? [P1]
+222. At-most-once vs At-least-once vs Exactly-once delivery. [P2]
+223. Kafka Ordering Guarantees. [P2]
+224. What is Dead Letter Queue (DLQ)? [P2]
+225. Why Kafka is used in Microservices Architecture? [P1]
+
+9. Production Support & Troubleshooting
+
+226. API response time suddenly increased in production. How would you investigate? [P1]
+227. Database query suddenly became slow. What troubleshooting steps would you follow? [P1]
+228. CPU utilization suddenly reached 100%. How would you diagnose the issue? [P1]
+229. How would you investigate a memory leak in a Java application? [P1]
+230. One microservice is down in production. How would the system behave and how would you troubleshoot it? [P1]
+231. How do you debug a production issue that cannot be reproduced locally? [P1]
+232. Explain logging strategy in a Microservices architecture. [P2]
+233. How do you monitor a Spring Boot application in production? [P2]
+234. How do you handle failures from external APIs? [P1]
+235. Describe the most challenging production issue you have resolved. [P1]
