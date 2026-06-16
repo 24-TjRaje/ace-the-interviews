@@ -39,6 +39,16 @@
 * **123.** Explain constructor overloading. [To be Answered]
 * **126.** What is JVM and JIT? [Answered]
 * **129.** What is autoboxing and unboxing? [Answered]
+**150.** Explain `Optional` class in detail. **[P1]**
+**151.** Difference between `orElse()` and `orElseGet()`. **[P1]**
+**152.** Explain `Comparable` vs `Comparator`. **[P1]**
+**153.** What is Serialization and Deserialization? **[P2]**
+**154.** Explain Java Memory Model (JMM). **[P1]**
+**155.** What are Strong, Weak, Soft and Phantom References? **[P3]**
+**156.** What is Metaspace and how is it different from PermGen? **[P2]**
+**157.** Explain Fail-Fast vs Fail-Safe iterators. **[P1]**
+**158.** What are Records in Java? **[P2]**
+**159.** What are Sealed Classes in Java? **[P3]**
 
 ### **2. Collections & Data Structures**
 
@@ -54,6 +64,15 @@
 * **108.** Compare `ArrayList` and `LinkedList`. [To be Answered]
 * **121.** What is the hierarchy of the Collections Framework? [ Answered]
 * **141.** What is `flatMap` in Java? [Answered]
+**160.** Difference between Collection and Collections. **[P2]**
+**161.** Explain CopyOnWriteArrayList. **[P2]**
+**162.** Difference between Queue, Deque and PriorityQueue. **[P2]**
+**163.** How does Stream Pipeline work internally? **[P1]**
+**164.** Intermediate vs Terminal Operations in Stream API. **[P1]**
+**165.** Parallel Stream vs Sequential Stream. **[P2]**
+**166.** What is Spliterator? **[P3]**
+**167.** Explain internal working of ConcurrentHashMap. **[P1]**
+**168.** How does ConcurrentHashMap achieve thread safety? **[P1]**
 
 ### **3. Spring & Spring Boot**
 
@@ -92,6 +111,23 @@
 * **136.** Explain `@Transactional` and `@CrossOrigin`. [To be Answered]
 * **140.** Explain `@Component` vs `@Bean`. [Answered]
 * **146.** What is the use of `@Profile`? [Answered]
+**169.** Explain Spring Boot Auto Configuration. **[P1]**
+**170.** How does `@SpringBootApplication` work internally? **[P1]**
+**171.** Explain Component Scanning in Spring. **[P1]**
+**172.** Difference between `@Component`, `@Service`, `@Repository`, and `@Controller`. **[P1]**
+**173.** Constructor Injection vs Field Injection. **[P1]**
+**174.** Why is Constructor Injection preferred? **[P1]**
+**175.** What is BeanPostProcessor? **[P2]**
+**176.** Explain Spring AOP. **[P1]**
+**177.** How does Spring AOP work internally? **[P2]**
+**178.** Difference between Filter and Interceptor. **[P1]**
+**179.** Difference between Interceptor and AOP. **[P2]**
+**180.** Authentication vs Authorization. **[P1]**
+**181.** Explain JWT Authentication Flow. **[P1]**
+**182.** Explain CORS and ways to solve CORS issues. **[P2]**
+**183.** What are Distributed Transactions in Microservices? **[P1]**
+**184.** Explain Spring Profiles with real-world examples. **[P2]**
+**185.** Explain Spring Cache Architecture. **[P2]**
 
 ### **4. Multithreading & Memory Management**
 
@@ -109,6 +145,14 @@
 * **120.** Explain the Executors framework. [Answered]
 * **132.** What is Multitasking vs Multithreading? [Answered]
 * **138.** Explain `Future` vs `CompletableFuture`. [To be Answered] in OneNote
+**186.** What is ReentrantLock? **[P2]**
+**187.** What is Deadlock? **[P1]**
+**188.** How do you prevent Deadlocks? **[P1]**
+**189.** What is a Race Condition? **[P1]**
+**190.** What is ThreadLocal? **[P2]**
+**191.** Explain ForkJoinPool. **[P2]**
+**192.** Explain CompletableFuture Chaining Methods. **[P1]**
+**193.** Difference between `submit()` and `execute()`. **[P2]**
 
 ### **5. Database & Hibernate**
 
@@ -120,6 +164,17 @@
 * **100.** What is JPA? [To be Answered]
 * **113.** What are `save` and `update` methods in Hibernate? [Answered]
 * **147.** Fetch vs Lazy. [Answered]
+**194.** First Level Cache vs Second Level Cache. **[P1]**
+**195.** Explain the N+1 Query Problem. **[P1]**
+**196.** What is Dirty Checking in Hibernate? **[P1]**
+**197.** Explain Cascade Types in Hibernate. **[P1]**
+**198.** Difference between JPQL and Native Query. **[P1]**
+**199.** Explain Entity Lifecycle in JPA. **[P2]**
+**200.** Difference between `save()`, `persist()`, and `saveAndFlush()`. **[P2]**
+**201.** Optimistic Locking vs Pessimistic Locking. **[P1]**
+**202.** Explain `@Version` annotation. **[P2]**
+**203.** What is Connection Pooling? **[P1]**
+**204.** Explain HikariCP. **[P1]**
 
 ### **6. Architecture & Design Patterns**
 
@@ -139,6 +194,18 @@
 * **128.** What is SAGA pattern? [Answered]
 * **139.** What is a Circuit Breaker? [To be Answered]
 * **149.** Sorting and Pagination in API. [Answered]
+**205.** Explain Retry Pattern. **[P1]**
+**206.** Explain Bulkhead Pattern. **[P2]**
+**207.** What is Event-Driven Architecture? **[P1]**
+**208.** Synchronous vs Asynchronous Communication. **[P1]**
+**209.** REST vs GraphQL. **[P2]**
+**210.** What is Idempotency? **[P1]**
+**211.** Explain CAP Theorem. **[P2]**
+**212.** Explain CQRS Pattern. **[P3]**
+**213.** Explain Outbox Pattern. **[P2]**
+**214.** Explain Factory Design Pattern. **[P2]**
+**215.** Explain Observer Design Pattern. **[P2]**
+**216.** Explain Builder Design Pattern. **[P2]**
 
 ### **7. Problem Solving & Coding Tasks**
 
