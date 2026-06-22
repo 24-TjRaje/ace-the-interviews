@@ -167,12 +167,12 @@
 **194.** First Level Cache vs Second Level Cache. **[P1]** [Answered] [Tuesday, 16 June 2026]
 **195.** Explain the N+1 Query Problem. **[P1]** [Answered] [Wednesday, 17 June 2026]
 **196.** What is Dirty Checking in Hibernate? **[P1]** [Answered] [Wednesday, 17 June 2026]
-**197.** Explain Cascade Types in Hibernate. **[P1]**
-**198.** Difference between JPQL and Native Query. **[P1]**
-**199.** Explain Entity Lifecycle in JPA. **[P2]**
-**200.** Difference between `save()`, `persist()`, and `saveAndFlush()`. **[P2]**
-**201.** Optimistic Locking vs Pessimistic Locking. **[P1]**
-**202.** Explain `@Version` annotation. **[P2]**
+**197.** Explain Cascade Types in Hibernate. **[P1]** [Answered] [Thursday, 18 June 2026]
+**198.** Difference between JPQL and Native Query. **[P1]** [Answered] [Thursday, 18 June 2026]
+**199.** Explain Entity Lifecycle in JPA. **[P2]** [Answered] [Thursday, 18 June 2026]
+**200.** Difference between `save()`, `persist()`, and `saveAndFlush()`. **[P2]** [Answered] [Thursday, 18 2026]
+**201.** Optimistic Locking vs Pessimistic Locking. **[P1]** [Answered] [Thursday, 18 June 2026]
+**202.** Explain `@Version` annotation. **[P2]** [Answered] [Thursday, 18 June 2026]
 **203.** What is Connection Pooling? **[P1]** [Answered] [Wednesday, 17 June 2026]
 **204.** Explain HikariCP. **[P1]** [Answered] [Wednesday, 17 June 2026]
 
