@@ -111,13 +111,13 @@
 * **136.** Explain `@Transactional` and `@CrossOrigin`. [To be Answered]
 * **140.** Explain `@Component` vs `@Bean`. [Answered]
 * **146.** What is the use of `@Profile`? [Answered]
-**169.** Explain Spring Boot Auto Configuration. **[P1]**
-**170.** How does `@SpringBootApplication` work internally? **[P1]**
-**171.** Explain Component Scanning in Spring. **[P1]**
-**172.** Difference between `@Component`, `@Service`, `@Repository`, and `@Controller`. **[P1]**
-**173.** Constructor Injection vs Field Injection. **[P1]**
-**174.** Why is Constructor Injection preferred? **[P1]**
-**175.** What is BeanPostProcessor? **[P2]**
+**169.** Explain Spring Boot Auto Configuration. **[P1]** [Answered] [Sunday, 28 June 2026]
+**170.** How does `@SpringBootApplication` work internally? **[P1]** [Sunday, 28 June 2026]
+**171.** Explain Component Scanning in Spring. **[P1]** [Sunday, 28 June 2026]
+**172.** Difference between `@Component`, `@Service`, `@Repository`, and `@Controller`. **[P1]** [Sunday, 28 June 2026]
+**173.** Constructor Injection vs Field Injection. **[P1]** [Sunday, 28 June 2026]
+**174.** Why is Constructor Injection preferred? **[P1]** [Sunday, 28 June 2026]
+**175.** What is BeanPostProcessor? **[P2]** [Sunday, 28 June 2026]
 **176.** Explain Spring AOP. **[P1]**
 **177.** How does Spring AOP work internally? **[P2]**
 **178.** Difference between Filter and Interceptor. **[P1]**
