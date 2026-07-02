@@ -226,15 +226,15 @@
 
 8. Kafka & Messaging
 
-217. What is Apache Kafka? [P1]
-218. Topic vs Partition in Kafka. [P1]
-219. Producer vs Consumer in Kafka. [P1]
-220. What is a Consumer Group? [P1]
-221. What is Offset in Kafka? [P1]
-222. At-most-once vs At-least-once vs Exactly-once delivery. [P2]
-223. Kafka Ordering Guarantees. [P2]
-224. What is Dead Letter Queue (DLQ)? [P2]
-225. Why Kafka is used in Microservices Architecture? [P1]
+217. What is Apache Kafka? [P1] [ Answered ] [ Thursday, 2 July 2026 ]
+218. Topic vs Partition in Kafka. [P1] [ Answered ] [ Thursday, 2 July 2026 ]
+219. Producer vs Consumer in Kafka. [P1] [ Answered ] [ Thursday, 2 July 2026 ]
+220. What is a Consumer Group? [P1] [ Answered ] [ Thursday, 2 July 2026 ]
+221. What is Offset in Kafka? [P1] [ Answered ] [ Thursday, 2 July 2026 ]
+222. At-most-once vs At-least-once vs Exactly-once delivery. [P2] [ Answered ] [ Thursday, 2 July 2026 ]
+223. Kafka Ordering Guarantees. [P2] [ Answered ] [ Thursday, 2 July 2026 ]
+224. What is Dead Letter Queue (DLQ)? [P2] [ Answered ] [ Thursday, 2 July 2026 ]
+225. Why Kafka is used in Microservices Architecture? [P1] [ Answered ] [ Thursday, 2 July 2026 ]
 
 9. Production Support & Troubleshooting
 
