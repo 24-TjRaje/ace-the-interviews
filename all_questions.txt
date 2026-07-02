@@ -118,16 +118,16 @@
 **173.** Constructor Injection vs Field Injection. **[P1]** [Sunday, 28 June 2026]
 **174.** Why is Constructor Injection preferred? **[P1]** [Sunday, 28 June 2026]
 **175.** What is BeanPostProcessor? **[P2]** [Sunday, 28 June 2026]
-**176.** Explain Spring AOP. **[P1]**
-**177.** How does Spring AOP work internally? **[P2]**
-**178.** Difference between Filter and Interceptor. **[P1]**
-**179.** Difference between Interceptor and AOP. **[P2]**
-**180.** Authentication vs Authorization. **[P1]**
-**181.** Explain JWT Authentication Flow. **[P1]**
-**182.** Explain CORS and ways to solve CORS issues. **[P2]**
-**183.** What are Distributed Transactions in Microservices? **[P1]**
-**184.** Explain Spring Profiles with real-world examples. **[P2]**
-**185.** Explain Spring Cache Architecture. **[P2]**
+**176.** Explain Spring AOP. **[P1]** [ Wednesday, 1 July 2026 ]
+**177.** How does Spring AOP work internally? **[P2]** [ Wednesday, 1 July 2026 ]
+**178.** Difference between Filter and Interceptor. **[P1]** [ Wednesday, 1 July 2026 ]
+**179.** Difference between Interceptor and AOP. **[P2]** [ Wednesday, 1 July 2026 ]
+**180.** Authentication vs Authorization. **[P1]** [ Wednesday, 1 July 2026 ]
+**181.** Explain JWT Authentication Flow. **[P1]** [ Wednesday, 1 July 2026 ]
+**182.** Explain CORS and ways to solve CORS issues. **[P2]** [ Wednesday, 1 July 2026 ]
+**183.** What are Distributed Transactions in Microservices? **[P1]** [ Wednesday, 1 July 2026 ]
+**184.** Explain Spring Profiles with real-world examples. **[P2]** [ Wednesday, 1 July 2026 ]
+**185.** Explain Spring Cache Architecture. **[P2]** [ Wednesday, 1 July 2026 ]
 
 ### **4. Multithreading & Memory Management**
 
