@@ -194,18 +194,18 @@
 * **128.** What is SAGA pattern? [Answered]
 * **139.** What is a Circuit Breaker? [To be Answered]
 * **149.** Sorting and Pagination in API. [Answered]
-**205.** Explain Retry Pattern. **[P1]**
-**206.** Explain Bulkhead Pattern. **[P2]**
-**207.** What is Event-Driven Architecture? **[P1]**
-**208.** Synchronous vs Asynchronous Communication. **[P1]**
-**209.** REST vs GraphQL. **[P2]**
-**210.** What is Idempotency? **[P1]**
-**211.** Explain CAP Theorem. **[P2]**
-**212.** Explain CQRS Pattern. **[P3]**
-**213.** Explain Outbox Pattern. **[P2]**
-**214.** Explain Factory Design Pattern. **[P2]**
-**215.** Explain Observer Design Pattern. **[P2]**
-**216.** Explain Builder Design Pattern. **[P2]**
+**205.** Explain Retry Pattern. **[P1]**  [Answered] [ Wednesday, 8 July 2026]                      
+**206.** Explain Bulkhead Pattern. **[P2]** [Answered] [ Wednesday, 8 July 2026]
+**207.** What is Event-Driven Architecture? **[P1]** [Answered] [ Wednesday, 8 July 2026]
+**208.** Synchronous vs Asynchronous Communication. **[P1]** [Answered] [ Wednesday, 8 July 2026]
+**209.** REST vs GraphQL. **[P2]** [Answered] [ Wednesday, 8 July 2026]
+**210.** What is Idempotency? **[P1]** [Answered] [ Wednesday, 8 July 2026]
+**211.** Explain CAP Theorem. **[P2]** [Answered] [ Wednesday, 8 July 2026]
+**212.** Explain CQRS Pattern. **[P3]** [Answered] [ Wednesday, 8 July 2026]
+**213.** Explain Outbox Pattern. **[P2]** [Answered] [ Wednesday, 8 July 2026]
+**214.** Explain Factory Design Pattern. **[P2]** [Answered] [ Wednesday, 8 July 2026]
+**215.** Explain Observer Design Pattern. **[P2]** [Answered] [ Wednesday, 8 July 2026]
+**216.** Explain Builder Design Pattern. **[P2]** [Answered] [ Wednesday, 8 July 2026]
 
 ### **7. Problem Solving & Coding Tasks**
 
