@@ -145,14 +145,14 @@
 * **120.** Explain the Executors framework. [Answered]
 * **132.** What is Multitasking vs Multithreading? [Answered]
 * **138.** Explain `Future` vs `CompletableFuture`. [To be Answered] in OneNote
-**186.** What is ReentrantLock? **[P2]**
-**187.** What is Deadlock? **[P1]**
-**188.** How do you prevent Deadlocks? **[P1]**
-**189.** What is a Race Condition? **[P1]**
-**190.** What is ThreadLocal? **[P2]**
-**191.** Explain ForkJoinPool. **[P2]**
-**192.** Explain CompletableFuture Chaining Methods. **[P1]**
-**193.** Difference between `submit()` and `execute()`. **[P2]**
+**186.** What is ReentrantLock? **[P2]** [Answered] [ Wednesday, 8 July 2026]
+**187.** What is Deadlock? **[P1]** [Answered] [ Wednesday, 8 July 2026]
+**188.** How do you prevent Deadlocks? **[P1]**[Answered] [ Wednesday, 8 July 2026]
+**189.** What is a Race Condition? **[P1]** [Answered] [ Wednesday, 8 July 2026]
+**190.** What is ThreadLocal? **[P2]** [Answered] [ Wednesday, 8 July 2026]
+**191.** Explain ForkJoinPool. **[P2]** [Answered] [ Wednesday, 8 July 2026]
+**192.** Explain CompletableFuture Chaining Methods. **[P1]** [Answered] [ Wednesday, 8 July 2026]
+**193.** Difference between `submit()` and `execute()`. **[P2]** [Answered] [ Wednesday, 8 July 2026]
 
 ### **5. Database & Hibernate**
 
