@@ -39,17 +39,16 @@
 * **123.** Explain constructor overloading. [To be Answered]
 * **126.** What is JVM and JIT? [Answered]
 * **129.** What is autoboxing and unboxing? [Answered]
-**150.** Explain `Optional` class in detail. **[P1]**
-**151.** Difference between `orElse()` and `orElseGet()`. **[P1]**
-**152.** Explain `Comparable` vs `Comparator`. **[P1]**
-**153.** What is Serialization and Deserialization? **[P2]**
-**154.** Explain Java Memory Model (JMM). **[P1]**
-**155.** What are Strong, Weak, Soft and Phantom References? **[P3]**
-**156.** What is Metaspace and how is it different from PermGen? **[P2]**
-**157.** Explain Fail-Fast vs Fail-Safe iterators. **[P1]**
-**158.** What are Records in Java? **[P2]**
-**159.** What are Sealed Classes in Java? **[P3]**
-
+**150.** Explain `Optional` class in detail. **[P1]** [ Answered – Saturday, 1 August 2026 ]
+**151.** Difference between `orElse()` and `orElseGet()`. **[P1]** [ Answered – Saturday, 1 August 2026 ]
+**152.** Explain `Comparable` vs `Comparator`. **[P1]** [ Answered – Saturday, 1 August 2026 ]
+**153.** What is Serialization and Deserialization? **[P2]** [ Answered – Saturday, 1 August 2026 ]
+**154.** Explain Java Memory Model (JMM). **[P1]** [ Answered – Saturday, 1 August 2026 ]
+**155.** What are Strong, Weak, Soft and Phantom References? **[P3]** [ Answered – Saturday, 1 August 2026 ]
+**156.** What is Metaspace and how is it different from PermGen? **[P2]** [ Answered – Saturday, 1 August 2026 ]
+**157.** Explain Fail-Fast vs Fail-Safe iterators. **[P1]** [ Answered – Saturday, 1 August 2026 ]
+**158.** What are Records in Java? **[P2]** [ Answered – Saturday, 1 August 2026 ]
+                     
 ### **2. Collections & Data Structures**
 
 * **9.** What is the difference between `HashMap` and `Hashtable`? [Answered]
@@ -64,15 +63,15 @@
 * **108.** Compare `ArrayList` and `LinkedList`. [To be Answered]
 * **121.** What is the hierarchy of the Collections Framework? [ Answered]
 * **141.** What is `flatMap` in Java? [Answered]
-**160.** Difference between Collection and Collections. **[P2]**
-**161.** Explain CopyOnWriteArrayList. **[P2]**
-**162.** Difference between Queue, Deque and PriorityQueue. **[P2]**
-**163.** How does Stream Pipeline work internally? **[P1]**
-**164.** Intermediate vs Terminal Operations in Stream API. **[P1]**
-**165.** Parallel Stream vs Sequential Stream. **[P2]**
-**166.** What is Spliterator? **[P3]**
-**167.** Explain internal working of ConcurrentHashMap. **[P1]**
-**168.** How does ConcurrentHashMap achieve thread safety? **[P1]**
+**160.** Difference between Collection and Collections. **[P2]** [ Answered – Saturday, 1 August 2026 ]
+**161.** Explain CopyOnWriteArrayList. **[P2]** [ Answered – Saturday, 1 August 2026 ]
+**162.** Difference between Queue, Deque and PriorityQueue. **[P2]** [ Answered – Saturday, 1 August 2026 ]
+**163.** How does Stream Pipeline work internally? **[P1]** [ Answered – Saturday, 1 August 2026 ]
+**164.** Intermediate vs Terminal Operations in Stream API. **[P1]** [ Answered – Saturday, 1 August 2026 ]
+**165.** Parallel Stream vs Sequential Stream. **[P2]** [ Answered – Saturday, 1 August 2026 ]
+**166.** What is Spliterator? **[P3]** [ Answered – Saturday, 1 August 2026 ]
+**167.** Explain internal working of ConcurrentHashMap. **[P1]** [ Answered – Saturday, 1 August 2026 ]
+**168.** How does ConcurrentHashMap achieve thread safety? **[P1]** [ Answered – Saturday, 1 August 2026 ]
 
 ### **3. Spring & Spring Boot**
 
@@ -209,20 +208,20 @@
 
 ### **7. Problem Solving & Coding Tasks**
 
-* **19.** Write a Java code to identify a prime number. [Answered]
-* **23.** How to reverse a string without an in-build function? [Answered]
-* **33.** Write a code to check if a String is a Palindrome. [Answered]
-* **45.** Find the 'n-th' highest in array. [Answered]
-* **61.** Code to find the smallest element present in Array A but not in B (return -1 if not present). [Answered]
-* **68.** Count occurrences of each character in a string. [Answered]
-* **78.** Second Max in array. [Answered]
-* **118.** Ways to iterate over `ArrayList`. [Answered]
-* **130.** How can you iterate over a Map? [Answered]
-* **142.** Find duplicates using Stream API. [To be Answered]
-* **143.** Put all zeroes at one end in an array. [Answered]
-* **144.** Check if 2 strings are anagrams. [Answered]
-* **145.** Program to find duplicates in a string. [To be Answered]
-* **148.** Code to swap 2 variables without a 3rd variable. [To be Answered]
+* **19.** Write a Java code to identify a prime number. [Answered] [ Thursday, 2 July 2026 ]
+* **23.** How to reverse a string without an in-build function? [Answered] [ Thursday, 2 July 2026 ]
+* **33.** Write a code to check if a String is a Palindrome. [Answered] [ Thursday, 2 July 2026 ]
+* **45.** Find the 'n-th' highest in array. [Answered] [ Thursday, 2 July 2026 ]
+* **61.** Code to find the smallest element present in Array A but not in B (return -1 if not present). [Answered] [ Thursday, 2 July 2026 ]
+* **68.** Count occurrences of each character in a string. [Answered] [ Thursday, 2 July 2026 ]
+* **78.** Second Max in array. [Answered] [ Thursday, 2 July 2026 ]
+* **118.** Ways to iterate over `ArrayList`. [Answered] [ Thursday, 2 July 2026 ]
+* **130.** How can you iterate over a Map? [Answered] [ Thursday, 2 July 2026 ]
+* **142.** Find duplicates using Stream API. [To be Answered] [ Thursday, 2 July 2026 ]
+* **143.** Put all zeroes at one end in an array. [Answered] [ Thursday, 2 July 2026 ]
+* **144.** Check if 2 strings are anagrams. [Answered] [ Thursday, 2 July 2026 ]
+* **145.** Program to find duplicates in a string. [To be Answered] [ Thursday, 2 July 2026 ]
+* **148.** Code to swap 2 variables without a 3rd variable. [To be Answered] [ Thursday, 2 July 2026 ]
 
 8. Kafka & Messaging
 
@@ -238,13 +237,13 @@
 
 9. Production Support & Troubleshooting
 
-226. API response time suddenly increased in production. How would you investigate? [P1]
-227. Database query suddenly became slow. What troubleshooting steps would you follow? [P1]
-228. CPU utilization suddenly reached 100%. How would you diagnose the issue? [P1]
-229. How would you investigate a memory leak in a Java application? [P1]
-230. One microservice is down in production. How would the system behave and how would you troubleshoot it? [P1]
-231. How do you debug a production issue that cannot be reproduced locally? [P1]
-232. Explain logging strategy in a Microservices architecture. [P2]
-233. How do you monitor a Spring Boot application in production? [P2]
-234. How do you handle failures from external APIs? [P1]
-235. Describe the most challenging production issue you have resolved. [P1]
+226. API response time suddenly increased in production. How would you investigate? [P1] [ Thursday, 2 July 2026 ]
+227. Database query suddenly became slow. What troubleshooting steps would you follow? [P1] [ Thursday, 2 July 2026 ]
+228. CPU utilization suddenly reached 100%. How would you diagnose the issue? [P1] [ Thursday, 2 July 2026 ]
+229. How would you investigate a memory leak in a Java application? [P1] [ Thursday, 2 July 2026 ]
+230. One microservice is down in production. How would the system behave and how would you troubleshoot it? [P1] [ Thursday, 2 July 2026 ]
+231. How do you debug a production issue that cannot be reproduced locally? [P1] [ Thursday, 2 July 2026 ]
+232. Explain logging strategy in a Microservices architecture. [P2] [ Thursday, 2 July 2026 ]
+233. How do you monitor a Spring Boot application in production? [P2] [ Thursday, 2 July 2026 ]
+234. How do you handle failures from external APIs? [P1] [ Thursday, 2 July 2026 ]
+235. Describe the most challenging production issue you have resolved. [P1] [ Thursday, 2 July 2026 ]
